@@ -1,4 +1,4 @@
-1. Data Wrangling (SS: Output df.info() atau df.isnull())
+1. Data Wrangling (SS: Output df.info() atau df.isnull())  (SS: Screenshot 2026-04-29 231500.png)
 Penjelasan:
 
 Proses awal dilakukan dengan inspeksi data untuk memastikan kualitasnya. Hasil pengecekan menunjukkan data bersih dari nilai kosong (missing values) dan duplikasi. Kolom OrderDate juga telah dikonversi ke format datetime untuk memungkinkan analisis tren waktu.
