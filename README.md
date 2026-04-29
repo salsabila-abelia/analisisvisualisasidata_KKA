@@ -1,5 +1,4 @@
-1. Data Wrangling (SS: Output df.info() atau df.isnull())  <img width="1141" height="630" alt="Screenshot 2026-04-29 231535" src="https://github.com/user-attachments/assets/9ccbe168-4038-4cd1-9115-de5be7bf7fc4" />
-<img width="1405" height="604" alt="Screenshot 2026-04-29 231500" src="https://github.com/user-attachments/assets/5569002e-aeb7-4db8-b225-9fd3123135f9" />
+1. Data Wrangling (SS: Output df.info() atau df.isnull()) <img width="1405" height="604" alt="Screenshot 2026-04-29 231500" src="https://github.com/user-attachments/assets/5569002e-aeb7-4db8-b225-9fd3123135f9" />
 
 Penjelasan:
 
